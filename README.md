@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Bank Pather
+Keybind to path to nearest bank
